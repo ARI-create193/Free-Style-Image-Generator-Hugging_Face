@@ -32,9 +32,9 @@ pip install gradio requests pillow numpy
 ```
 3. Run the application:
 ```bash
-python app.py
+python image to(hugging face).pynb
 ```
-4. Access the web interface at http://127.0.0.1:7860 in your browser
+
 
 ## How to Use
 
