@@ -30,9 +30,9 @@ Free Style Image Generator is a Gradio-based web application that leverages Hugg
 ```bash
 pip install gradio requests pillow numpy
 ```
-3. Run the application:
+3. Run in collab /jupyter notebook
 ```bash
-python image to(hugging face).pynb
+ image to(Hugging face).ipynb
 ```
 
 
